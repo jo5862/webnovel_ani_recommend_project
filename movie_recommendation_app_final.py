@@ -74,7 +74,7 @@ class Exam(QWidget, form_window):
                 if self.df_reviews[self.df_reviews.titles == rec].book_type.values[0] == 0
             ]
             type_1_recs = [
-                f'<br><a href="https://ridibooks.com/search?q={rec}&adult_exclude=y" style="color: white; text-decoration: none;">{self.truncate_title(rec)}</a><br>'
+                f'<br><a href="https://ridibooks.com/search?q={rec}&adult_exclude=y" style="color: white; text-decoration: none;">{self.truncate_title(rec)}</a><br>'#ddddd
                 for rec in recommendation 
                 if self.df_reviews[self.df_reviews.titles == rec].book_type.values[0] == 1
             ]
