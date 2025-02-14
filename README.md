@@ -43,7 +43,7 @@ Github: https://github.com/parkhk994/webnovel_ani_recommend_project
 - 애니메이션 ott사이트 ‘라프텔’인기 작품 200개 각 50개 인기리뷰 총 10,000개
 - 전자책 구독 사이트’리디’인기 작품 300개 각 50개 인기리뷰 총 15,000개 수집
 
-![image.png](image%201.png)
+imgs/image 1.png
 
 ### 2.전처리
 
