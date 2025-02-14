@@ -44,7 +44,7 @@ Github: https://github.com/parkhk994/webnovel_ani_recommend_project
 - 전자책 구독 사이트’리디’인기 작품 300개 각 50개 인기리뷰 총 15,000개 수집
 
 imgs/image 1.png
-
+![image.png](https://github.com/jo5862/webnovel_ani_recommend_project/blob/e08176f6fafd9c5a9e9e04e3084c58794e9031e5/imgs/image%201.png)
 ### 2.전처리
 
 - `Okt` 형태소 분석, 불용어 제거 후, 리뷰데이터 전처리
